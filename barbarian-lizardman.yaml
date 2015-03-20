@@ -1,0 +1,106 @@
+Name: Saurl Ironscale
+Points: 300
+ST: 19 [81]
+DX: 13 [60]
+IQ: 9 [-20]
+HT: 14 [40]
+HP: 24 [9]
+FP: 14
+Will: 9
+Per: 11 [10]
+Basic Speed: 6.5 [-10]
+Basic Move: 8 [5]
+sw: 4d-1
+thr: 2d
+height: 8'8"
+weight: 297 lbs
+Attacks:
+- Morningstar-16 4d+3 cr
+- Tail-14 2d+4 cr
+- Bite-16 2d cut, grapples
+- Claw-16 2d cut
+- Thrown Javelin-15 2d+1 imp, acc 3
+- Wrestling-16 (21 ST for wrestling)
+Defences:
+- Block-14
+- Tail Parry-14 (13 vs weapon swing)
+- Dodge-12
+- SM+1, easier to hit.
+- DR5 + 2 (Tough Skin) Top torso (1-3 on 1d to be protected)
+- DR4/2* + 2 (Tough Skin) groin
+- DR2 (Tough Skin) elsewhere
+Advantages:
+- High Pain Threshold [10]
+- Outdoorsman 4 [40]
+- Claws (Sharp) [5]
+- DR 2 (Tough Skin, -40%) [6]
+- Nictitating Membrane 2 [2]
+- Peripheral Vision [15]
+- Striker (Tail; Crushing; Clumsy (-2), -40%) [3]
+- Teeth (Sharp) [1]
+- Temperature Tolerance 3 [3]
+- Terrain Adaptation (Swamp) [5]
+- Combat Reflexes [15]
+- Fit [5] (recover FP twice as fast)
+- Striking ST +2 [9]
+Disadvantages:
+- Gigantism [0]
+- Social Stigma (Minority Group) [-10]
+  - -2 to reaction rolls from non-barbarians
+- Social Stigma (Monster) [-15]
+  - -3 reaction rolls, +3 intimidation when you have the upper hand.
+- Easy to Read [-10]
+- Phobia (Crowds, 9) [-15]
+  - over a dozen strangers sets it off, -1 for over 25, -2 for 100+,
+    -1 per order of magnitude higher
+  - when succeeded, take - penalty to DX, IQ and skill rolls
+  - when failed, fright check 3d + margin of failure.
+- Sense of Duty (Adventuring Companions) [-5]
+Primary Skills:
+- Camouflage-13 [1]
+- Navigation(Land)-13 [2]
+- Survival(Desert)-14 [1]
+- Tracking-14 [1]
+- Thrown Spear-15 [4]
+- Flail-14 [8]
+- Shield-16 [8]
+Secondary Skills:
+- Brawling-16 [8]
+- Stealth-13 [2]
+- Wrestlng-16 [8]
+- Mimicry (Bird Calls)-11 [1]
+- Naturalist-11 [1]
+- Swimming-14 [1]
+- Hiking-13 [1]
+- Running-13 [1]
+- Fishing-15 [1]
+Background Skills:
+- Animal Handling(Raptors)-9 [2]
+- Disguise (Animals)-9 [2]
+- Weather Sense-9 [2]
+- Intimidation-9 [2]
+- Forced Entry-13 [1]
+- First Aid-9 [1]
+- Gesture-9 [1]
+- Observation-10 [1]
+Equipment 88.5 (60.5 minus delver kit)/72.2:
+- SM+1 Morningstar sw+4 cr, reach 1, parry 0U, cost $120, weight 9, ST 18
+  - No fencing parry, -4 parry, -2 block
+- SM+1 Medium Shield, DB 2, $90, 22.5lbs
+- 3x SM+1 Javelin thr+2 imp, $135, 9lbs
+- SM+1 Mail Loincloth DR4/2* $120 12lbs
+- SM+1 Partial Plate Top DR5 $280 8lbs
+- SM+1 Minimal Delver Kit $152.50 28lbs
+  - Blanket
+  - Canteen
+  - Personal Basics
+  - 12x Rations
+  - Rope
+  - Sack (holds 60lbs)
+  - 2x Torch
+- $102.5
+Misc:
+- Large dinosaur-like creature with grey scales.
+- Native to deserts.
+- Best to keep him away from civilization, due to his crowd-phobia and
+  the huge reaction penalties he faces.
