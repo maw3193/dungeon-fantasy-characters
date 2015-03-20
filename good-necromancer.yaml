@@ -1,11 +1,11 @@
 Name: Morty Deathblade
-Points: 250
+Points: 300
 ST: 11 [10]
 DX: 12 [40]
 IQ: 14 [80]
 HT: 12 [20]
-HP: 10
-FP: 18 [18]  (+7 power item)
+HP: 11 [2]
+FP: 20 [24]  (+7 power item) (+1 ER)
 Will: 14
 Per: 12 [-10]
 Basic Speed: 6.00
@@ -17,13 +17,15 @@ Attacks:
   - Unready after use unless 1 FP is spent
   - impaling attack gets stuck in
 - Deliver spell-14 reach C
+  - Rotting Death-20 (costs 1 FP)
 Defences:
 - DR 3 torso,groin
 - DR 2 limbs & extremities
 - Parry-11
 - Dodge-9
+- Phase-20 (cost 1 FP)
 Advantages:
-- Deathliness 3 [24]
+- Deathliness 6 [48]
 - Detect (Undead & Ghosts)(add deathliness) [9]
 - Licensed Exorcist [1]
 - Night Vision 5 [5]
@@ -33,6 +35,8 @@ Advantages:
 - Spirit Empathy (ghosts only -50%) [5]
 - Spirit Weapon (bring Scythe to astral plane) [1]
 - Weapon Bond (Scythe) [1]
+- Energy Reserve 1 [3]
+- Melee Spell Mastery (Rotting Death) [1]
 Disadvantages:
 - Frightens Animals [-10]
 - Obsession (Bridge life and death) [-10]
@@ -53,31 +57,33 @@ Background Skills:
 - Climbing-11 [1]
 - Diagnosis-12 [1]
 - Fast-Draw (Knife)-12 [1]
+- Fast-Draw (Scythe)-12 [1]
 - Hidden Lore (Spirits)-13 [1]
 - Intimidation-13 [1]
 - Observation-11 [1]
 - Teaching-13 [1]
 - Writing-13 [1]
 Spells:
-- Counterspell-15 [1]
-- Deathtouch-15 [1]
-- Death Vision-15 [1]
-- Dispel Magic-15 [1]
-- Lend Energy-15 [1]
-- Materialize-15 [1]
-- Paralyse Limb-15 [1]
-- Phase-15 [1]
-- Planar Summons (dead)-15 [1]
-- Planar Visit (Astral)-14 [1]
-- Plane Shift (dead)-14 [1]
-- Plane Shift (home)-14 [1]
-- Recover Energy-15 [1]
-- Rotting Death-15 [2]
-- Sense Spirit-15 [1]
-- Solidify-15 [1]
-- Summon Spirit-15 [1]
-- Turn Spirit-15 [1]
-- Wither Limb-15 [1]
+- Command Spirit (Ghost)-18 [1]
+- Counterspell-18 [1]
+- Deathtouch-18 [1]
+- Death Vision-18 [1]
+- Dispel Magic-18 [1]
+- Lend Energy-18 [1]
+- Materialize-18 [1]
+- Paralyse Limb-18 [1]
+- Phase-20 [4]
+- Planar Summons (dead)-18 [1]
+- Planar Visit (Astral)-17 [1]
+- Plane Shift (dead)-18 [1]
+- Plane Shift (home)-18 [1]
+- Recover Energy-20 [4]
+- Rotting Death-20 [8]
+- Sense Spirit-18 [1]
+- Solidify-18 [1]
+- Summon Spirit-18 [1]
+- Turn Spirit-18 [1]
+- Wither Limb-18 [1]
 Equipment 24/24.2:
 - Ornate Fine Balanced Silver-Plated Dwarven Scythe sw+3 cut/sw+1 imp parry 0 +1 to skill $960 5lbs
   - Made of Bone and an ebony inlay depicting cycle of life and death.
@@ -92,6 +98,16 @@ Equipment 24/24.2:
 - Heavy Leather Leggings $60 4lbs DR2
 - Heavy Leather Sleeves $50 2llbs DR2
 - $580
+Misc:
+- Skilled exorcist for haunted areas, the rest are at -5
+- If someone is possessed by a ghost, he can exorcise it.
+- If a spirit is hostile, he may use Detect to locate it.
+- Once located, he makes it visible with Materialize
+- He can then Command it if it is unwilling to listen to reason.
+  - costs 1 energy per 10 character points.
+- He will usually guide them to the afterlife using Plane Shift (dead)
+  - Costs 20 energy
+- Every 2 minutes of rest, he recovers 2 FP and 1 to his energy reserve.
 
 Deathly spells:
 Affect Spirits			Solidify
