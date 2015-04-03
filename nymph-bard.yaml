@@ -15,19 +15,26 @@ thr: 1d-1
 height: 6'5"
 weight: 125lbs
 Attacks:
+- Smallsword-14 1d imp
+- and Cloak entangle-13
+- or Shortbow-12 1d-1 imp, acc 1
+- or hold Flute and do performance
 Defences:
+- Cloak Block-11
+- Dodge-11
+- Smallsword Parry-12
 Advantages:
 - Appearance (Transcendent; Universal) [25]
 - Bardic Talent 2 [16]
 - Charisma 6 [30]
 - Musical Ability 2 [10]
 - Voice [10]
-- Empathy (PM -30%) [11]
-- Mimicry (PM -30%) [7]
+- Speak With Animals [18]
 - Rapier Wit (PM -30%) [4]
 - Wealthy (wealth level +2) (sales at 80% of value) [20]
 - Social Chameleon [5]
-- Dirge song (8yds Enemies Will vs. Will or -3 DX, -3ST) [35]
+- Dirge song (8yds Enemies Will+talent vs. Will or -3 DX, -3ST) [35]
+- Point spent on money [2]
 Disadvantages:
 - Gregarious [-10]
 - Sense of Duty (Adventuring Companions) [-5]
@@ -39,12 +46,14 @@ Disadvantages:
 - Dependency (Mana; Constantly, i.e. 1d injury per minute lacking it) [-25]
 - Sense of Duty (Nature) [-15]
 - Obsession (Meet one of every race) [-1]
-- Distinctive Features (snow dryad) [-1]
+- Distinctive Features (Rock Nymph) [-1]
+- Imaginative [-1]
+- Habit (playing a short tune for everything that dies [-1]
 Primary Skills:
 - Acting(A)-14 [2]
 - Diplomacy(H)-14 [1]
 - Fast-Talk(A)-15 [1]
-- Musical Instrument(Harp)-15 [2]
+- Musical Instrument(Flute)-15 [2]
 - Performance(A)-15 [1]
 - Public Speaking(A)-21 [1]
 - Singing(E)-15 [1]
@@ -94,11 +103,54 @@ Special Skills and Spells (up to 20):
 - Mind-Reading-14 [1]
 - Mind-Sending-14 [1]
 - Telepathy-13 [1]
-
-
-
-Equipment 88.5 (60.5 minus delver kit)/72.2:
+Equipment (worn) 22.4/24.2:
+- Arrows x12 $24, 1.2lbs
+- Cloth Sleeves DR1* $20, 2lbs
+- Small Hat $12, 0.2lbs
+- Leather Jacket DR1* $50, 4lbs
+- Leather Pants DR1* $40, 3lbs
+- Ordinary Clothing $0, 2lbs
+- Short Bow thr imp, $50, 2lbs
+- Shoulder Quiver (up to 12 arrows) $10, 0.5lbs
+- Flute set with a 2-carat diamond (power item 4FP) $360, 1lbs
+- Heavy Cloak DB2, $50, 5lbs
+- Smallsword thr+1 imp, $400, 1.5lbs
+- Minor Healing Potion (heals 1d HP) x1 $120, 0.5lbs
+- $68
+Equipment (on Wagon)171.5/1000:
+- Wagon (Plus oxen) $3680
+- Blanket $20, 4lbs
+- Bull's-Eye Lantern $100, 2lbs
+- Canteen $10, 3lbs
+- Crowbar 3' $20, 3lbs
+- Delver's Webbing $160, 3lbs
+- First Aid Kit $50, 2lbs
+- Frame Backpack $100, 10lbs
+- Grapnel (throw 2xST yds) $80, 2lbs
+- Group Basics $50, 20lbs
+- Lantern Oil, 5 pints, $10, 5lbs
+- Personal Basics $5, 1lb
+- Pickaxe $15, 8lbs
+- Pole 10' $8, 5lbs
+- Rations x100 $200, 50lbs
+- Rope (10yds, supports 1100 lbs) $25, 5lbs
+- Rope (10yds, supports 300 lbs), $5, 1.5lbs
+- Sack x3 (holds 40lbs), $90, 9lbs
+- Shovel $12, 6lbs
+- Sleeping Fur %50, 8lbs
+- Tent, 4-man $150, 30lbs
+- Torch x2 $6, 2lbs
 Misc:
-- Snow nymph, white skin and fluffy hair
+- Rock Nymph, marbled skin, short, spiky hair
 - As a Nymph, she gets a basic +10 to ALL reaction rolls, +5
   from appearance and +5 from charisma.
+  It would be +11, but she has an annoying habit of singing constantly.
+- Owns a wagon pulled by two Oxen, Paul and Barry. She can speak to them
+  using her flute.
+- She excels at social matters, with a wide range of social skills, a huge
+  reaction bonus, and potentially another +3 reaction if Persuade is cast.
+- In combat, she has three options:
+  - Melee combat with cloak and smallsword
+  - Ranged combat with bow
+  - Magic and/or bardic with her Flute. This includes potential fight-enders
+    like Mental Stun (and Sleep, to a lesser extent)
